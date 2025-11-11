@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265019180779",
+    "project_id": "beekee-app-573bf",
+    "storage_bucket": "beekee-app-573bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265019180779:android:1f22bbc23f3463c8f4a0ae",
+        "android_client_info": {
+          "package_name": "ch.beekee.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCey_4U6TPMAEA7ggdNRw29xaU9anL4tyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
