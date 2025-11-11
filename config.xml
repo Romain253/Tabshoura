@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="1" id="ch.beekee.app" ios-CFBundleVersion="1" version="1" versionCode="1" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Beekee App</name>
+<widget android-versionCode="1" id="com.tabshoura.app" ios-CFBundleVersion="1" version="1" versionCode="1" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Tabshoura offline</name>
     <icon src="resources/icon.png" />
-    <description>Customized Moodle-based mobile app for Beekee learning environments</description>
+    <description>Customized Moodle-based mobile app for Tabshoura</description>
     <author email="contact@beekee.ch" href="https://beekee.ch/">Beekee team</author>
     <content src="index.html" />
     <access origin="*" />
@@ -54,16 +54,16 @@
     <preference name="GradlePluginGoogleServicesVersion" value="4.4.2" />
     <preference name="GradlePluginKotlinVersion" value="1.9.24" />
     <preference name="StatusBarOverlaysWebView" value="false" />
-    <preference name="StatusBarBackgroundColor" value="#FFFFFF" />
-    <preference name="NavigationBarBackgroundColor" value="#FFFFFF" />
+    <preference name="StatusBarBackgroundColor" value="#009D8B" />
+    <preference name="NavigationBarBackgroundColor" value="#009D8B" />
     <preference name="AndroidEdgeToEdge" value="true" />
     <feature name="StatusBar">
         <param name="ios-package" onload="true" value="CDVStatusBar" />
     </feature>
     <platform name="android">
         <preference name="AndroidWindowSplashScreenAnimatedIcon" value="resources/android/android-splash.xml" />
-        <preference name="AndroidWindowSplashScreenBackground" value="#FDEB32" />
-        <preference name="AndroidWindowSplashScreenIconBackgroundColor" value="#FDEB32" />
+        <preference name="AndroidWindowSplashScreenBackground" value="#009D8B" />
+        <preference name="AndroidWindowSplashScreenIconBackgroundColor" value="#009D8B" />
         <resource-file src="google-services.json" target="app/google-services.json" />
         <resource-file src="resources/android/icon/drawable-ldpi-smallicon.png" target="app/src/main/res/mipmap-ldpi/smallicon.png" />
         <resource-file src="resources/android/icon/drawable-mdpi-smallicon.png" target="app/src/main/res/mipmap-mdpi/smallicon.png" />

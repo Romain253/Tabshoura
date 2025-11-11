@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "265019180779",
-    "project_id": "beekee-app-573bf",
-    "storage_bucket": "beekee-app-573bf.firebasestorage.app"
+    "project_number": "689820495237",
+    "project_id": "tabshura-offline",
+    "storage_bucket": "tabshura-offline.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:265019180779:android:1f22bbc23f3463c8f4a0ae",
+        "mobilesdk_app_id": "1:689820495237:android:9be06da3df5913c307a8ec",
         "android_client_info": {
-          "package_name": "ch.beekee.app"
+          "package_name": "com.tabshoura.app"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCey_4U6TPMAEA7ggdNRw29xaU9anL4tyk"
+          "current_key": "AIzaSyAeHz9hg7HAiUCJVibamGgfJ4VNA52JHvg"
         }
       ],
       "services": {
