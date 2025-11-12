@@ -429,8 +429,8 @@ export class CoreLoginHelperProvider {
      * @returns Path and params.
      */
     async getAddSiteRouteInfo(showKeyboard?: boolean): Promise<[string, Params]> {
-    const defaultSiteUrl = 'https://moodle-demo.beekee.ch'; // ton serveur
-    return ['/login/credentials', { siteUrl: defaultSiteUrl }];
+      const defaultSiteUrl = 'http://moodle.beekee.box'; // local Box
+      return ['/login/credentials', { siteUrl: defaultSiteUrl }];
     }
 
 
