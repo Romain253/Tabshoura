@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #!/bin/bash
 #
 # Script to update language packs on assets and detect new translated languages.

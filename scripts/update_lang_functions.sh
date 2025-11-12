@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #!/bin/bash
 #
 # Functions to update langpacks.

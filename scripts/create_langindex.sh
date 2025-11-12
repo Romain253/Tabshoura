@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #!/bin/bash
 #
 # Script to create langindex from available language packs.

@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #!/bin/bash
 
 if [[ $CORDOVA_PLUGINS == *cordova-plugin-moodleapp* ]]; then

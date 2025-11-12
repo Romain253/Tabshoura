@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #!/bin/bash
 
 # This script is necessary because @ionic/cli is passing one argument to the ionic:serve hook

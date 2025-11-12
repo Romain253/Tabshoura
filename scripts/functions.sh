@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #!/bin/bash
 
 function check_success_exit {

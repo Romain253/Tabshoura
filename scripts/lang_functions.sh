@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #!/bin/bash
 #
 # Common functions to fetch languages.
